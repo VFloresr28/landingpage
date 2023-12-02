@@ -1,0 +1,44 @@
+
+.header {
+    padding: 1px;
+    background-image: url("../imagenes/fondo2.jpg");
+    background-size: cover;
+    background-position: center;
+    border: solid 2px #DF9223;
+    width: 800px;
+}
+
+.header h1{
+    color: black;
+    font-size: 50px;
+    Font-family: "Georgia";
+}
+
+.header p{
+    color: black;
+    Font-family: "Georgia";
+    font-size: 20px;
+}
+
+.pizzas {
+    Font-family: "calibri";
+    font-style: italic;
+    margin: auto;
+}
+
+.pizzas td{
+    font-size: 15px;
+}
+
+.pizzas img {
+    width: 400px;
+    height: 200px;
+    border: solid 2px #DF9223;
+}
+
+.footer{
+    font-size: 10px;
+    text-align:start;
+    background-color: #EBD5B4;
+    width: 400px;
+}
